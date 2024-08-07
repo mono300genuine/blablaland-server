@@ -1,0 +1,94 @@
+[
+  {
+    "mapId": 11,
+    "callback": "ArmoredDoor"
+  },
+  {
+    "mapId": 18,
+    "callback": "BoostCelestial"
+  },
+  {
+    "mapId": 99,
+    "callback": "Lazeroid"
+  },
+  {
+    "mapId": 339,
+    "callback": "N300"
+  },
+  {
+    "mapId": 340,
+    "callback": "TransitionN300"
+  },
+  {
+    "mapId": 341,
+    "callback": "IrwishChest"
+  },
+  {
+    "mapId": 343,
+    "callback": "IrwishToilet"
+  },
+  {
+    "mapId": 348,
+    "callback": "IrwishFireplace"
+  },
+  {
+    "mapId": 355,
+    "callback": "RocketEvent"
+  },
+  {
+    "mapId": 408,
+    "callback": "Rocket"
+  },
+  {
+    "mapId": 445,
+    "callback": "Rocket"
+  },
+  {
+    "mapId": 448,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 449,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 450,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 451,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 452,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 453,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 454,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 455,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 456,
+    "callback": "Pyramid"
+  },
+  {
+    "mapId": 461,
+    "callback": "PirateQuest"
+  },
+  {
+    "mapId": 463,
+    "callback": "Siren"
+  },
+  {
+    "mapId": 521,
+    "callback": "SpookyClamp"
+  }
+]

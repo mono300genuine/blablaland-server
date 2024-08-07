@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "Origine",
+    "port": 12301
+  },
+  {
+    "id": 1,
+    "name": "Legende",
+    "port": 12302
+  },
+  {
+    "id": 2,
+    "name": "Fury Tournament",
+    "port": 12303
+  }
+]

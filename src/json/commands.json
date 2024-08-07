@@ -1,0 +1,224 @@
+[
+  {
+    "name": "help",
+    "filename": "Help",
+    "description": "Affiche la liste des commandes",
+    "grade": 0,
+    "arguments": [
+      {
+        "name": "commande",
+        "description": "nom de la commande",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "clearmap",
+    "filename": "ClearMap",
+    "description" : "Vide les FX présents sur la map",
+    "grade": 90
+  },
+  {
+    "name": "mutemap",
+    "filename": "MuteMap",
+    "description" : "Interdit les blablas d'envoyer des messages sur la map",
+    "grade": 90
+  },
+  {
+    "name": "nopowers",
+    "filename": "NoPowers",
+    "description" : "Interdit les blablas d'ajouter des objets sur la map",
+    "grade": 90
+  },
+  {
+    "name": "bypass",
+    "filename": "Bypass",
+    "description" : "Mettre une exception sur les restrictions de la map",
+    "grade": 90,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "pseudo de du blabla",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "give",
+    "filename": "GiveBBL",
+    "description" : "Donner des BBL's à un blabla",
+    "grade": 94,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "pseudo de du blabla",
+        "required": true
+      },
+      {
+        "name": "montant",
+        "description": "montant en BBL",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "tp",
+    "filename": "Teleport",
+    "description" : "Se téléporter à une map",
+    "grade": 90,
+    "arguments": [
+      {
+        "name": "id",
+        "description": "numéro de la map",
+        "required": true
+      },
+      {
+        "name": "univers",
+        "description": "numéro de l'univers",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "tpto",
+    "filename": "TeleportTo",
+    "description" : "Se téléporter à la map d'un blabla",
+    "grade": 90,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "pseudo du blabla",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "tphere",
+    "filename": "TeleportHere",
+    "description" : "Téléporte le(s) blabla(s) à ta map",
+    "grade": 90,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "liste des pseudos",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "map",
+    "filename": "TeleportMap",
+    "description" : "Téléporte les blablas présents sur la map",
+    "grade": 300,
+    "arguments": [
+      {
+        "name": "id",
+        "description": "numéro de la map",
+        "required": true
+      },
+      {
+        "name": "univers",
+        "description": "numéro de l'univers",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "position",
+    "filename": "Position",
+    "description": "Récupère la position du joueur",
+    "grade": 950
+  },
+  {
+    "name": "size",
+    "filename": "Size",
+    "description": "Changer la taille du blabla",
+    "grade": 950,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "pseudo du blabla",
+        "required": true
+      },
+      {
+        "name": "size",
+        "description": "valeur de la taille",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "kdo",
+    "filename": "SendGift",
+    "description": "Ajoute un cadeau sur la map",
+    "grade": 950,
+    "arguments": [
+      {
+        "name": "type",
+        "description": "type du cadeau",
+        "required": true
+      },
+      {
+        "name": "valeur",
+        "description": "valeur du cadeau",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "mapFX",
+    "filename": "MapFX",
+    "description": "Liste des FX présents sur la map",
+    "grade": 950
+  },
+  {
+    "name": "msg",
+    "filename": "FakeMessage",
+    "description": "Se faire passer pour un blabla avec un faux message",
+    "grade": 950,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "pseudo du blabla",
+        "required": true
+      },
+      {
+        "name": "message",
+        "description": "message à envoyer",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "online",
+    "filename": "Online",
+    "description": "Liste des blablas en ligne",
+    "grade": 950,
+    "arguments": [
+      {
+        "name": "pseudo",
+        "description": "pseudo du blabla",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "clan",
+    "filename": "Clan",
+    "description": "Gérer son clan",
+    "grade": 0,
+    "arguments": [
+      {
+        "name": "nom",
+        "description": "nom du clan",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "irwish",
+    "filename": "Irwish",
+    "description": "Consulter la prochaine ouverture de la cheminée de l'Irwish",
+    "grade": 0
+  }
+]

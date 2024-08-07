@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Vaisseau N400",
+    "slots": 4,
+    "maps": [470],
+    "positionX": 1798.5,
+    "positionY": 401
+  },
+  {
+    "id": 212,
+    "name": "Chalet",
+    "slots": 4,
+    "maps": [457],
+    "positionX": 888.5,
+    "positionY": 378.5
+  },
+  {
+    "id": 224,
+    "name": "Igloo",
+    "slots": 6,
+    "maps": [458],
+    "positionX": 817.5,
+    "positionY": 376.5
+  },
+  {
+    "id": 228,
+    "name": "Jardin secret",
+    "slots": 4,
+    "maps": [459],
+    "positionX": 903.5,
+    "positionY": 388.5
+  },
+  {
+    "id": 260,
+    "name": "Tipi",
+    "slots": 4,
+    "maps": [472],
+    "positionX": 472.5,
+    "positionY": 288.5
+  },
+  {
+    "id": 265,
+    "name": "Van",
+    "slots": 4,
+    "maps": [473],
+    "positionX": 278.5,
+    "positionY": 328.5
+  },
+  {
+    "id": 281,
+    "name": "Maison Pain d'Épices",
+    "maps": [497],
+    "slots": 4,
+    "positionX": 859.5,
+    "positionY": 354.5
+  },
+  {
+    "id": 321,
+    "name": "Cabane",
+    "maps": [503, 504, 505, 506],
+    "slots": 10,
+    "positionX": 862.5,
+    "positionY": 342.5
+  },
+  {
+    "id": 328,
+    "name": "Plage",
+    "maps": [507],
+    "slots": 2,
+    "positionX": 204.5,
+    "positionY": 277.5
+  },
+  {
+    "id": 344,
+    "name": "Bosquet Magique",
+    "slots": 4,
+    "maps": [518],
+    "positionX": 111.5,
+    "positionY": 322.5
+  },
+  {
+    "id": 373,
+    "name": "Boule à neige",
+    "slots": 6,
+    "maps": [537, 538],
+    "positionX": 530.5,
+    "positionY": 366.5
+  },
+  {
+    "id": 376,
+    "name": "No man's land",
+    "slots": 4,
+    "maps": [539],
+    "positionX": 389.5,
+    "positionY": 114
+  }
+]

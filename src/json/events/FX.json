@@ -1,0 +1,146 @@
+[
+  {
+    "FX_ID": 1,
+    "callback": "Impact"
+  },
+  {
+    "FX_ID": 3,
+    "callback": "Trampoline"
+  },
+  {
+    "FX_ID": 4,
+    "callback": "Fish"
+  },
+  {
+    "FX_ID": 5,
+    "callback": "Wedding"
+  },
+  {
+    "FX_ID": 6,
+    "callback": "BridalBouquet"
+  },
+  {
+    "FX_ID": 7,
+    "callback": "PotionThrower"
+  },
+  {
+    "FX_ID": 8,
+    "callback": "PlatformN300"
+  },
+  {
+    "FX_ID": 9,
+    "callback": "ValentineBomb"
+  },
+  {
+    "FX_ID": 10,
+    "callback": "ThunderPotion"
+  },
+  {
+    "FX_ID": 11,
+    "callback": "TeleportBlibli"
+  },
+  {
+    "FX_ID": 12,
+    "callback": "RespawnParadise"
+  },
+  {
+    "FX_ID": 14,
+    "callback": "ChangeUniverse"
+  },
+  {
+    "FX_ID": 13,
+    "callback": "TeleportBlibli"
+  },
+  {
+    "FX_ID": 15,
+    "callback": "SandCastle"
+  },
+  {
+    "FX_ID": 16,
+    "callback": "Burn"
+  },
+  {
+    "FX_ID": 17,
+    "callback": "SecretWarrior"
+  },
+  {
+    "FX_ID": 18,
+    "callback": "VodooDoll"
+  },
+  {
+    "FX_ID": 19,
+    "callback": "NecroProtection"
+  },
+  {
+    "FX_ID": 20,
+    "callback": "NecroHit"
+  },
+  {
+    "FX_ID": 22,
+    "callback": "Recycler"
+  },
+  {
+    "FX_ID": 23,
+    "callback": "Boost"
+  },
+  {
+    "FX_ID": 25,
+    "callback": "MagicCauldron"
+  },
+  {
+    "FX_ID": 27,
+    "callback": "CarnivorousPlant"
+  },
+  {
+    "FX_ID": 28,
+    "callback": "TeleportBlibli"
+  },
+  {
+    "FX_ID": 29,
+    "callback": "Tomb"
+  },
+  {
+    "FX_ID": 30,
+    "callback": "Bamboo"
+  },
+  {
+    "FX_ID": 31,
+    "callback": "TeleportBlibli"
+  },
+  {
+    "FX_ID": 34,
+    "callback": "NightMonster"
+  },
+  {
+    "FX_ID": 35,
+    "callback": "Magician"
+  },
+  {
+    "FX_ID": 36,
+    "callback": "Reaper"
+  },
+  {
+    "FX_ID": 37,
+    "callback": "ColorVial"
+  },
+  {
+    "FX_ID": 38,
+    "callback": "TeleportBlibli"
+  },
+  {
+    "FX_ID": 39,
+    "callback": "FeatherBomb"
+  },
+  {
+    "FX_ID": 41,
+    "callback": "SurfaceCover"
+  },
+  {
+    "FX_ID": 40,
+    "callback": "MiniMonster"
+  },
+  {
+    "FX_ID": 42,
+    "callback": "Frozen"
+  }
+]

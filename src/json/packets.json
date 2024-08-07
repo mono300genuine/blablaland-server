@@ -1,0 +1,597 @@
+[
+    {
+        "type": 1,
+        "subType": 1,
+        "folder": "global",
+        "fileName": "ServerTime",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 2,
+        "folder": "global",
+        "fileName": "Login",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 3,
+        "folder": "global",
+        "fileName": "GetPID",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 4,
+        "folder": "global",
+        "fileName": "SendMessage",
+        "isPublic": false
+    },
+    {
+        "type": 1,
+        "subType": 5,
+        "folder": "global",
+        "fileName": "SendPrivateMessage",
+        "isPublic": false
+    },
+    {
+        "type": 1,
+        "subType": 6,
+        "folder": "global",
+        "fileName": "GetVariables",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 7,
+        "folder": "global",
+        "fileName": "InterfaceDodo",
+        "isPublic": false
+    },
+    {
+        "type": 1,
+        "subType": 8,
+        "folder": "global",
+        "fileName": "InterfaceSmile",
+        "isPublic": false
+    },
+    {
+        "type": 1,
+        "subType": 9,
+        "folder": "global",
+        "fileName": "UserDie",
+        "isPublic": false
+    },
+    {
+        "type": 1,
+        "subType": 10,
+        "folder": "global",
+        "fileName": "TeleportToRespawn",
+        "isPublic": false
+    },
+    {
+        "type": 1,
+        "subType": 13,
+        "folder": "global",
+        "fileName": "MapCount",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 16,
+        "folder": "global",
+        "fileName": "ExternalFileLoaded",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 17,
+        "folder": "global",
+        "fileName": "StatusWebRadio",
+        "isPublic": true
+    },
+    {
+        "type": 1,
+        "subType": 18,
+        "folder": "global",
+        "fileName": "ClientBytes",
+        "isPublic": true
+    },
+    {
+        "type": 2,
+        "subType": 1,
+        "folder": "behaviours",
+        "fileName": "MainUserState",
+        "isPublic": true
+    },
+    {
+        "type": 2,
+        "subType": 2,
+        "folder": "behaviours",
+        "fileName": "MainUserEvent",
+        "isPublic": true
+    },
+    {
+        "type": 2,
+        "subType": 3,
+        "folder": "behaviours",
+        "fileName": "Identity",
+        "isPublic": false
+    },
+    {
+        "type": 2,
+        "subType": 4,
+        "folder": "behaviours",
+        "fileName": "ChatColor",
+        "isPublic": false
+    },
+    {
+        "type": 2,
+        "subType": 9,
+        "folder": "behaviours",
+        "fileName": "InterfaceBan",
+        "isPublic": false
+    },
+    {
+        "type": 2,
+        "subType": 10,
+        "folder": "behaviours",
+        "fileName": "MessageUserWarn",
+        "isPublic": false
+    },
+    {
+        "type": 3,
+        "subType": 1,
+        "folder": "camera",
+        "fileName": "CreateCamera",
+        "isPublic": false
+    },
+    {
+        "type": 3,
+        "subType": 2,
+        "folder": "camera",
+        "fileName": "RemoveCamera",
+        "isPublic": false
+    },
+    {
+        "type": 3,
+        "subType": 3,
+        "folder": "camera",
+        "fileName": "MainCamera",
+        "isPublic": false
+    },
+    {
+        "type": 3,
+        "subType": 5,
+        "folder": "camera",
+        "fileName": "MoveToMap",
+        "isPublic": true
+    },
+    {
+        "type": 3,
+        "subType": 6,
+        "folder": "camera",
+        "fileName": "MapReady",
+        "isPublic": true
+    },
+    {
+        "type": 4,
+        "subType": 1,
+        "folder": "console",
+        "fileName": "UserSearch",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 2,
+        "folder": "console",
+        "fileName": "ShineModerator",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 3,
+        "folder": "console",
+        "fileName": "ConsoleChat",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 5,
+        "folder": "console",
+        "fileName": "ReloadRight",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 6,
+        "folder": "console",
+        "fileName": "UserWarn",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 7,
+        "folder": "console",
+        "fileName": "UserKick",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 8,
+        "folder": "console",
+        "fileName": "UserBan",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 9,
+        "folder": "console",
+        "fileName": "MessageModerator",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 10,
+        "folder": "console",
+        "fileName": "MessageModeratorAll",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 11,
+        "folder": "console",
+        "fileName": "UserTracker",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 12,
+        "folder": "console",
+        "fileName": "UserDeban",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 14,
+        "folder": "console",
+        "fileName": "BadWord",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 15,
+        "folder": "console",
+        "fileName": "UserTeleport",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 16,
+        "folder": "console",
+        "fileName": "KillServer",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 20,
+        "folder": "console",
+        "fileName": "DropGift",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 21,
+        "folder": "console",
+        "fileName": "AdvServer",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 22,
+        "folder": "console",
+        "fileName": "SecretManager",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 23,
+        "folder": "console",
+        "fileName": "ApplySecret",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 24,
+        "folder": "console",
+        "fileName": "ConsoleKick",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 26,
+        "folder": "console",
+        "fileName": "BanIP",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 29,
+        "folder": "console",
+        "fileName": "RemoveFX",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 30,
+        "folder": "console",
+        "fileName": "OpenTracker",
+        "isPublic": false
+    },
+    {
+        "type": 4,
+        "subType": 31,
+        "folder": "console",
+        "fileName": "CloseTracker",
+        "isPublic": false
+    },
+    {
+        "type": 5,
+        "subType": 1,
+        "folder": "console",
+        "fileName": "CreateTracker",
+        "isPublic": false
+    },
+    {
+        "type": 5,
+        "subType": 2,
+        "folder": "console",
+        "fileName": "RemoveTracker",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 1,
+        "folder": "user",
+        "fileName": "Paint",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 2,
+        "folder": "user",
+        "fileName": "UnderWater",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 4,
+        "folder": "user",
+        "fileName": "UserLaunchImpact",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 5,
+        "folder": "user",
+        "fileName": "UserImpact",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 6,
+        "folder": "user",
+        "fileName": "SkinAction",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 7,
+        "folder": "user",
+        "fileName": "SkinAction",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 8,
+        "folder": "user",
+        "fileName": "GetObject",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 8,
+        "folder": "user",
+        "fileName": "GetObject",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 9,
+        "folder": "user",
+        "fileName": "Decontaminate",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 11,
+        "folder": "user",
+        "fileName": "CatchGift",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 12,
+        "folder": "user",
+        "fileName": "KillUser",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 14,
+        "folder": "user",
+        "fileName": "UserAction",
+        "isPublic": false
+    },
+    {
+        "type": 6,
+        "subType": 15,
+        "folder": "user",
+        "fileName": "FXEvent",
+        "isPublic": false
+    },
+    {
+        "type": 7,
+        "subType": 1,
+        "folder": "user",
+        "fileName": "SkinEvent",
+        "isPublic": false
+    },
+    {
+        "type": 7,
+        "subType": 2,
+        "folder": "user",
+        "fileName": "SkinEventToUser",
+        "isPublic": false
+    },
+    {
+        "type": 8,
+        "subType": 1,
+        "folder": "games",
+        "fileName": "SeaBattle",
+        "isPublic": false
+    },
+    {
+        "type": 8,
+        "subType": 3,
+        "folder": "games",
+        "fileName": "TournamentFury",
+        "isPublic": false
+    },
+    {
+        "type": 8,
+        "subType": 5,
+        "folder": "games",
+        "fileName": "HauntedManor",
+        "isPublic": false
+    },
+    {
+        "type": 8,
+        "subType": 6,
+        "folder": "games",
+        "fileName": "MedievalFantasy",
+        "isPublic": false
+    },
+    {
+        "type": 9,
+        "subType": 1,
+        "folder": "activity",
+        "fileName": "MapEvent",
+        "isPublic": false
+    },
+    {
+        "type": 9,
+        "subType": 2,
+        "folder": "activity",
+        "fileName": "AskServer",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 1,
+        "folder": "house",
+        "fileName": "LeaveHouse",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 2,
+        "folder": "house",
+        "fileName": "CreateHouse",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 3,
+        "folder": "house",
+        "fileName": "InitHouse",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 4,
+        "folder": "house",
+        "fileName": "EnterHouse",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 5,
+        "folder": "house",
+        "fileName": "HouseParams",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 6,
+        "folder": "house",
+        "fileName": "HouseReady",
+        "isPublic": false
+    },
+    {
+        "type": 10,
+        "subType": 7,
+        "folder": "house",
+        "fileName": "HouseAction",
+        "isPublic": false
+    },
+    {
+        "type": 11,
+        "subType": 1,
+        "folder": "website",
+        "fileName": "Inventory",
+        "isPublic": true
+    },
+    {
+        "type": 11,
+        "subType": 2,
+        "folder": "website",
+        "fileName": "Smile",
+        "isPublic": true
+    },
+    {
+        "type": 11,
+        "subType": 3,
+        "folder": "website",
+        "fileName": "AllowIP",
+        "isPublic": true
+    },
+    {
+        "type": 11,
+        "subType": 4,
+        "folder": "website",
+        "fileName": "Affinity",
+        "isPublic": true
+    },
+    {
+        "type": 11,
+        "subType": 5,
+        "folder": "website",
+        "fileName": "Skin",
+        "isPublic": true
+    },
+    {
+        "type": 11,
+        "subType": 6,
+        "folder": "website",
+        "fileName": "Kick",
+        "isPublic": true
+    },
+    {
+        "type": 12,
+        "subType": 2,
+        "folder": "console",
+        "fileName": "BlibliMonster",
+        "isPublic": false
+    }
+]
